@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="Label.Kelvin">Kelvin Temperature:</string>
+    <string name="Label.Celsius">Celsius Temperature:</string>
+    <string name="Label.Fahrenheit">Fahrenheit Temperature:</string>
+    <string name="Button.GetData">Get data</string>
+</resources>
